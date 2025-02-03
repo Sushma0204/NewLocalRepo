@@ -3,3 +3,4 @@ hello
 namaste
 aadam
 namskaram
+Vanakam
